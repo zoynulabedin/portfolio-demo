@@ -80,7 +80,7 @@ export default function Index() {
               onClick={handleNavClick}
               className="text-gray-700 hover:text-purple-600 transition"
             >
-              About menu from test1
+              About menu from test11
             </a>
             <a
               href="#projects"
